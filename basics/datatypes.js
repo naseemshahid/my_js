@@ -8,6 +8,7 @@ console.log(typeof null)
 console.log(typeof undefined)
 
 //data types
+// boolean data type
 // interger data type
 let num1=10
 let num2=20
